@@ -1,2 +1,2 @@
 # NeuralNetworks-DeepLearning
-Some of NNDL and ML projects I have done.
+Some of NN and DL projects I have done.
